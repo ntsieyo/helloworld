@@ -1,0 +1,15 @@
+.idea
+.vscode
+.git
+bin
+lib
+build
+*.i??
+.project
+.classpath
+.settings
+target
+eclipse-classes
+atlassian-ide-plugin.xml
+dependency-reduced-pom.xml
+.apt_generated_tests
